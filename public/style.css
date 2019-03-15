@@ -1,0 +1,23 @@
+body{
+    background:#3333;
+    }
+    h2{
+    text-align:center;
+      margin-top:3rem;
+    }
+    
+    .first{
+      margin-top:150px;
+      margin-left:12%;
+    }
+    .second{
+      margin-top:50px;
+      margin-left:12%;
+    }
+    code{
+      background:#eee;
+    }
+    a{
+      padding:10px;
+      text-decoration:none;
+    }
